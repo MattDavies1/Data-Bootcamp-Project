@@ -1,5 +1,6 @@
 # Project Proposal
 **Group Members**
+
 (1) Aaron Spivak <br>
 (2) Asad Dadabhoy <br>
 (3) Jasper Parson <br>
