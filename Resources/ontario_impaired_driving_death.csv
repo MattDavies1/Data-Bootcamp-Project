@@ -1,0 +1,66 @@
+﻿"Incident-based crime statistics, by detailed violations, police services in Ontario" c 1 2 3 4 5
+"Annual"
+"Table: 35-10-0180-01 (formerly CANSIM 252-0077)"
+"Geography: Province or territory"
+
+"","Ontario [35] 8 9 (map)",,,,,,,,,,,,,,,,,,,,,
+"","Operation while impaired causing death (alcohol)  [9210] 10",,,,,,,,,,,,,,,,,,,,,
+"Statistics","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019"
+"","Number",,,,,,,,,,,,,,,,,,,,,
+"Actual incidents","21","48","55","35","29","40","37","28","30","42","35","26","26","22","23","19","20","26","29","21","26","5"
+"","Rate",,,,,,,,,,,,,,,,,,,,,
+"Rate per 100,000 population 11","0.18","0.42","0.47","0.29","0.24","0.33","0.30","0.22","0.24","0.33","0.27","0.20","0.20","0.17","0.17","0.14","0.15","0.19","0.21","0.15","0.18","0.03"
+"","Percent",,,,,,,,,,,,,,,,,,,,,
+"Percentage change in rate 12","0.00","125.80","12.83","-37.49","-18.47","36.23","-8.61","-25.16","6.02","38.87","-17.43","-26.37","-1.05","-16.19","3.54","-18.13","4.44","29.15","10.19","-28.60","21.68","-81.10"
+"","Number",,,,,,,,,,,,,,,,,,,,,
+"Unfounded incidents 13","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","0","0","0"
+"","Percent",,,,,,,,,,,,,,,,,,,,,
+"Percent unfounded 13","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","0.00","0.00","0.00"
+"","Number",,,,,,,,,,,,,,,,,,,,,
+"Total cleared","19","48","57","33","28","41","37","30","28","48","36","25","26","23","25","19","19","27","25","23","27","5"
+"Cleared by charge","19","48","55","31","28","40","37","30","27","46","35","25","25","22","25","17","19","26","23","20","24","5"
+"Cleared otherwise","0","0","2","2","0","1","0","0","1","2","1","0","1","1","0","2","0","1","2","3","3","0"
+"Total, persons charged 14","19","46","55","31","26","47","35","28","27","43","35","25","26","22","24","17","20","23","22","19","25","5"
+"","Rate",,,,,,,,,,,,,,,,,,,,,
+"Rate, total persons charged per 100,000 population aged 12 years and over 11","0.20","0.47","0.56","0.31","0.25","0.45","0.33","0.26","0.25","0.39","0.31","0.22","0.23","0.19","0.21","0.14","0.17","0.19","0.18","0.15","0.20","0.04"
+"","Number",,,,,,,,,,,,,,,,,,,,,
+"Total, adult charged","19","46","55","31","26","47","35","28","27","42","34","24","25","22","24","17","19","22","22","19","25","5"
+"","Rate",,,,,,,,,,,,,,,,,,,,,
+"Rate, adult charged per 100,000 population aged 18 years and over 11","0.22","0.52","0.62","0.34","0.28","0.50","0.36","0.29","0.27","0.42","0.34","0.23","0.24","0.21","0.22","0.16","0.17","0.20","0.20","0.17","0.22","0.04"
+"","Number",,,,,,,,,,,,,,,,,,,,,
+"Total, youth charged 15 16","0","0","0","0","0","0","0","0","0","1","1","1","1","0","0","0","1","1","0","0","0","0"
+"","Rate",,,,,,,,,,,,,,,,,,,,,
+"Rate, youth charged per 100,000 population aged 12 to 17 years 11","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.10","0.10","0.10","0.10","0.00","0.00","0.00","0.11","0.11","0.00","0.00","0.00","0.00"
+"","Number",,,,,,,,,,,,,,,,,,,,,
+"Total, youth not charged 15 16","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0"
+"","Rate",,,,,,,,,,,,,,,,,,,,,
+"Rate, youth not charged per 100,000 population aged 12 to 17 years 11","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00","0.00"
+
+Symbol legend:
+..,not available for a specific reference period,
+
+Corrections:
+Date:,Note:
+2019-08-01T04:00:00Z,"On August 1, 2019, the data for 2018 for “Total impaired driving” have been corrected."
+
+Footnotes:
+1,"For the period from 1998 to 2017 Incident-based Uniform Crime Reporting Survey (UCR2) data are not available for all respondents. In order to report this level of detail for police services still reporting to the Aggregate Uniform Crime Reporting Survey (UCR) over this time, a process of imputation was applied to derive counts for violations that do not exist on their own in the aggregate survey. For approximately 80% of the aggregate offence codes, there is a 1:1 mapping with a new incident-based violation code. For violations where this was not the case, such as the aggregate other Criminal Code category, it was necessary to estimate (impute) this figure using the distribution of other Criminal Code offences from existing Incident-based UCR2 respondents."
+2,"During the production of each year's crime statistics, data from the previous year are revised to reflect any updates or changes that have been received from the police services. For more information on the concepts, methods and quality of the data contained in this table, please contact the Canadian Centre for Justice Statistics at ccjsccsj@statcan.gc.ca or at 1-800-387-2231."
+3,"Police reported statistics may be affected by differences in the way police services deal with minor offences. In some instances, police or municipalities might chose to deal with some minor offences using municipal by-laws or provincial provisions rather than Criminal Code provisions. Counts are based on the most serious violation in the incident."
+4,"In January 2018, the Uniform Crime Reporting Survey (UCR) definitions of “founded” and “unfounded” criminal incidents were updated to reflect a more victim-centred approach for recording crimes that consider the complexities of certain offences such as sexual assault, family violence and intimate partner violence. Under the new reporting standards, specific offences may be more likely reported by police as founded rather than unfounded (or unsubstantiated), which would exclude them from police-reported crime rates and crime severity indices. Data for 2019 represent the first complete year of UCR data collected under the new reporting standards.  As a result, for selected violations and police services, the actual proportion of incidents in 2019 that were classified as “not cleared” has increased. Use caution when comparing these data with prior years."
+5,"A high crime rate or Crime Severity Index (CSI) may indicate that a municipality is a geographical area that provides commercial business, human or public services, or entertainment for many people who reside outside, as well as inside, the municipality. As a result, these municipalities may have large part-time or temporary populations which are excluded from both their population bases and their crime rate and CSI calculations."
+6,"With the release of 2012 data, revised population estimates at the respondent level were applied back to and including 2004."
+7,"Starting in 2003, populations for all police services including all rural/provincial detachments have been presented. Prior to 2003, populations for rural detachments are not available."
+8,"During the revision of 2001 data for the province of Ontario, a discrepancy in methodology applied by the forces in the province using the Ontario Municipal and Provincial Police Automated Co-operative (OMPPAC) system was detected. These forces report approximately one-third of the total criminal incidents for the province and include the Ontario Provincial Police and about 60 small and mid-sized municipal forces. This discrepancy resulted in an over-count of less serious criminal incidents. During 2003 and 2004, the Canadian Centre for Justice Statistics (CCJS) consulted with affected police services and analyzed both historical Aggregate Uniform Crime Reporting Survey (UCR) data and more recent Incident-based Uniform Crime Reporting Survey (UCR2) microdata to determine the impact of this over-reporting. The effect at the Canada level was, on average, 1% per year from 1977 to 2000. This over-counting peaked in 1991, where it was estimated that the total crime rate for the country was over-estimated by approximately 1.8%. However, the overall historical trend changed very little. The impact in Ontario is more noticeable, but the overall trend is still very similar. On average, the effect was 2% to 3% per year, with the biggest change occurring in 1991, where the Ontario crime rate is 5% lower as a result of the adjustment. For further information, refer to the report:Summary of Historical Adjustments to Crime Data for Ontario 1977-2000."
+9,"Ontario numbers also include child pornography incidents reported by the Canadian Police Centre for Missing and Exploited Children of the RCMP which is located in the City of Ottawa. The Centre responds to Internet-facilitated sexual abuse cases nationally. Therefore, while the incidents are detected by the RCMP Centre located in Ontario, the incidents themselves or the offenders are not limited to the province of Ontario."
+10,"On June 21, 2018, Part 1 of Bill C-46 “An Act to amend the Criminal Code (relating to conveyances) and to make consequential amendments to other Acts” came into effect. Part 2 of this legislation came into effect on December 18, 2018. As a result of this legislation, the Uniform Crime Reporting (UCR) Survey created 19 new violation codes and expired 15 existing traffic-specific violation codes."
+11,"Population figures reflect only the permanent or resident population of a jurisdiction. Where a jurisdiction serves as the centre for commercial businesses, human or public services, or entertainment, it may have substantial “part-time” populations, e.g., tourists, cabin owners, commuters, students, and seasonal staff. These temporary populations, whose permanent residence is within another jurisdiction, are excluded from a jurisdiction’s population figures. This may be a factor to consider when examining the crime rate and Crime Severity Index for some municipalities."
+12,This represents the year-over-year (current year over last year) percentage change in the rate of actual incidents.
+13,"Data for unfounded incidents are available for 2017 and subsequent years in order to resume collection that had been halted in 2006 due to inconsistent reporting. To improve comparability, the definition of founded and unfounded criminal incidents was revised in 2017 and any prescribed changes relating to the classification of incidents will be phased in over time starting with the reporting of 2019 data. As such, it is understood that inconsistencies in reporting may still exist in 2017 and 2018. Data may therefore be incomparable across police services."
+14,Total persons charged is the total of adults charged and youth charged.
+15,Data on youth charged and youth not charged may include a small number of people under the age of 12.
+16,"Data for youth charged and youth not charged for impaired driving are not available prior to 2007. As a result, comparisons of Total all violations and Total Criminal Code violations (including traffic) over time should be made with caution."
+
+"How to cite: Statistics Canada. Table 35-10-0180-01 Incident-based crime statistics, by detailed violations, police services in Ontario"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510018001
+DOI: https://doi.org/10.25318/3510018001-eng
