@@ -16,6 +16,7 @@ Our group plans to study the relationship between alcohol and cannabis consumpti
 - Is there a relationship between alcohol or cannabis and all-cause mortality? Which substance is a better predictor of ACM?
 - Does cannabis consuption trend with population level education rates?
 - Is there a relationship between alcohol useage and cannabis usage?
+- Does alcohol or cannabis usage have a correlation to mental health outcomes (rates of depression, anxiety)
 
 ## Possible Data Sources:
 
