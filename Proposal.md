@@ -10,6 +10,14 @@
 ## Summary
 Our group plans to study the relationship between alcohol and cannabis consumption across various indecies of health outcomes. These indecies may include; all-cause mortalitiy, intoxicated driving rates, crime rates, homelessness, household median income, cosumption tax-rate, tobacco usage. Ideally, we will collect this data for a 50 year period using largely open.canada.gov datasets.
 
+## Questions
+
+- What is the relationship between total cannabis consumption and ...
+- Does alcohol or cannabis consumption correlate strongly to increases in crime (as measured by ... )
+- Does alcohol or cannabis better predict changes in all cause mortality
+- Does cannabis consuption trend with population level education rates
+- Is there an inverse relationship between alcohol useage and cannabis usage
+
 ## Possible Data Sources:
 
 https://www.agco.ca/about-agco/open-data/data-inventory <br>
