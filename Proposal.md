@@ -12,11 +12,10 @@ Our group plans to study the relationship between alcohol and cannabis consumpti
 
 ## Questions
 
-- What is the relationship between total cannabis consumption and ...
-- Does alcohol or cannabis consumption correlate strongly to increases in crime (as measured by ... )
-- Does alcohol or cannabis better predict changes in all cause mortality
-- Does cannabis consuption trend with population level education rates
-- Is there an inverse relationship between alcohol useage and cannabis usage
+- Does alcohol or cannabis consumption correlate strongly to increases in crime as measured by number of crimes commited?
+- Is there a relationship between alcohol or cannabis and all-cause mortality? Which substance is a better predictor of ACM?
+- Does cannabis consuption trend with population level education rates?
+- Is there a relationship between alcohol useage and cannabis usage?
 
 ## Possible Data Sources:
 
@@ -26,3 +25,8 @@ https://www.ccsa.ca/sites/default/files/2019-04/CCSA-Canadian-Drug-Summary-Alcoh
 https://www.thestar.com/about/rssfeeds.html <br>
 https://open.canada.ca/en/access-our-application-programming-interface-api <br>
 https://open.canada.ca/data/en/dataset/d6b45dd5-22eb-4b24-b37f-ed22469f093f <br>
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510018001 <br>
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310009611 <br>
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310038301 <br>
+https://open.canada.ca/data/en/dataset/b0419d46-adf3-4b7c-98aa-72973e2a7504 <br>
+https://open.canada.ca/data/en/dataset/5c0f0ba9-f823-4597-9a8e-2ea3efab4c76 <br>
