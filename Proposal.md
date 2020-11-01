@@ -8,7 +8,7 @@
 (5) Matt Davies <br>
 
 ## Summary
-Our group plans to study the relationship between alcohol and cannabis consumption across various indecies of health outcomes. These indecies may include; all-cause mortalitiy, intoxicated driving rates, crime rates, homelessness, household median income, consumption tax-rate, tobacco usage. Ideally, we will collect this data for a 50 year period using largely open.canada.gov datasets.
+Our group plans to study the relationship between alcohol and cannabis consumption across various indeces of health outcomes. These indeces may include; all-cause mortalitiy, intoxicated driving rates, crime rates, homelessness, household median income, consumption tax-rate, tobacco usage. Ideally, we will collect this data for a 50 year period using largely open.canada.gov datasets.
 
 ## Questions
 
