@@ -1,11 +1,11 @@
-"Data File","Contents","Date Range"
-"canada_polpulation.csv","Census population for canada 1961 - 2018","1961 - 2018"
-"heavy_drinking_data.csv","Canada level drinking from 2015 - 18", "2015 - 2018"
-"ontario_impaired_driving.csv", "Prov: ON Impaired Driving from 1998-2019", "1999 - 2019"
-"sales_data_value_alcohol.csv",  "Canada alcohol sales from 1993-2013", "1993-2013"
-"education_participation_age.csv", "Level of education Canadians recieved", "1995-2019"
-"cannabis_usage_1961_2018.csv", "Canadian cannabis usage", "1961-2018"
-"alcohol_sales_89_18.csv", "Alcohol sales for each province and Canada", "1989-2018"
-"Toronto_06_19_Alcohol_Related.csv", "drunk driving accidents Toronto" , "2006-2019"
-"Cannabis_Harms_Snapshot_Data_2003_2018 2.xlsx", "Cannabis related harms", "2003-2018"
-"Alcohol_AH_Inequities_Data.xlsx", "Alcohol attributable hospitalizations in Ontario", "2004-2017"
+Data File,Contents,Start Date,End Date
+canada_polpulation.csv,Census population for canada 1961 - 2018,1961,2018
+heavy_drinking_data.csv,Canada level drinking from 2015 - 18,2015,2018
+ontario_impaired_driving.csv," ""Prov: ON Impaired Driving from 1998-2019""",1999,2019
+sales_data_value_alcohol.csv,"  ""Canada alcohol sales from 1993-2013""",1993,2013
+education_participation_age.csv," ""Level of education Canadians recieved""",1995,2019
+cannabis_usage_1961_2018.csv," ""Canadian cannabis usage""",1961,2018
+alcohol_sales_89_18.csv," ""Alcohol sales for each province and Canada""",1989,2018
+Toronto_06_19_Alcohol_Related.csv," ""drunk driving accidents Toronto"" ",2006,2019
+Cannabis_Harms_Snapshot_Data_2003_2018 2.xlsx," ""Cannabis related harms""",2003,2018
+Alcohol_AH_Inequities_Data.xlsx," ""Alcohol attributable hospitalizations in Ontario""",2004,2017
