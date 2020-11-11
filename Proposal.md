@@ -8,15 +8,16 @@
 (5) Matt Davies <br>
 
 ## Summary
-Our group plans to study the relationship between alcohol and cannabis consumption across various indeces of health outcomes. These indeces may include; all-cause mortalitiy, intoxicated driving rates, crime rates, homelessness, household median income, consumption tax-rate, tobacco usage. Ideally, we will collect this data for a 50 year period using largely open.canada.gov datasets.
+Our group plans to study the relationship between alcohol and cannabis consumption across various indeces of health outcomes. These indeces may include; all-cause mortalitiy, intoxicated driving rates, crime rates, household median income, secondary school graudation, and hospitalisations. Ideally, we will collect this data for a 50 year period using largely open.canada.gov datasets.
 
 ## Questions
 
 - Does alcohol or cannabis consumption correlate strongly to increases in crime as measured by number of crimes commited?
-- Is there a relationship between alcohol or cannabis and all-cause mortality? Which substance is a better predictor of ACM?
+- Does increasing alcohol, and cannabis sales have a correlation to secondary school graudation rates?
 - Does cannabis consuption trend with population level education rates?
 - Is there a relationship between alcohol useage and cannabis usage?
-- Does alcohol or cannabis usage have a correlation to mental health outcomes (rates of depression, anxiety)
+- Does alcohol or cannabis usage have a correlation to rates of hospitalisations.
+- Does median household income correlated with impaired driving? 
 
 ## Possible Data Sources:
 
@@ -31,3 +32,4 @@ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310009611 <br>
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310038301 <br>
 https://open.canada.ca/data/en/dataset/b0419d46-adf3-4b7c-98aa-72973e2a7504 <br>
 https://open.canada.ca/data/en/dataset/5c0f0ba9-f823-4597-9a8e-2ea3efab4c76 <br>
+https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?GeographyType=MetropolitanMajorArea&GeographyId=2270&CategoryLevel1=Population%2C%20Households%20and%20Housing%20Stock&CategoryLevel2=Household%20Income&ColumnField=HouseholdIncomeRange&RowField=SurveyZone&SearchTags%5B0%5D.Key=Households&SearchTags%5B0%5D.Value=Number&SearchTags%5B1%5D.Key=Statistics&SearchTags%5B1%5D.Value=AverageAndMedian <br>
