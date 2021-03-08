@@ -27,7 +27,7 @@ My group extracted, transformed, cleaned and combined datasets in order to get t
 - Few api's/dynamic datasets
 
 ## Preview
-(/Output/Toronto_Cumilative_Alcohol.png)
+![Preview](Output/Toronto_Cumilative_Alcohol.png)
 
 ## Possible Data Sources:
 https://www.agco.ca/about-agco/open-data/data-inventory <br>
