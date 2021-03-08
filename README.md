@@ -26,6 +26,9 @@ My group extracted, transformed, cleaned and combined datasets in order to get t
 - Cannabis usage relies on self-reporting
 - Few api's/dynamic datasets
 
+## Preview
+(Output/Toronto_Cumilative_Alcohol.png)
+
 ## Possible Data Sources:
 https://www.agco.ca/about-agco/open-data/data-inventory <br>
 https://data.torontopolice.on.ca/datasets/072cd7fbb52847daa80c3524e5f4bd09_0?geometry=-80.793%2C43.542%2C-77.980%2C43.889 <br>
